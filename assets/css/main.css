@@ -21,7 +21,7 @@
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
-article {
+.style4 {
 	margin-left: auto;
 margin-right: auto;
 }
