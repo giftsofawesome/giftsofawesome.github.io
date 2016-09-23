@@ -21,7 +21,10 @@
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
-
+article {
+	margin-left: auto;
+margin-right: auto;
+}
 	body {
 		line-height: 1;
 	}
